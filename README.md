@@ -13,7 +13,7 @@ The chart below illustrates the hourly dispatch stackplot.
 ### 2. Output Data
 The detailed hourly breakdown (Marginal Price, Generation Mix, Shortage Amount) has been exported to CSV:
 
-**[Download Full Report (CSV)](hourly_prices_and_mix_report.csv)**
+**[Full Report (CSV)](hourly_prices_and_mix_report.csv)**
 
 ---
 
