@@ -172,7 +172,6 @@ class AuctionProcessSimulator:
                          where=(demand > total_supply), 
                          interpolate=True, color='red', alpha=0.3, hatch='//', label='Shortage')
         
-        ax1.legend(loc='upper left')
         ax1.set_title('Hourly Dispatch Mix vs Total Demand (Stackplot)', fontsize=14)
         ax1.set_ylabel('Total Supply (MWh)', fontsize=12)
         ax1.legend(loc='upper left')
