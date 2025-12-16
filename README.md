@@ -42,7 +42,7 @@ The calculation using NumPy matrix dot products (`matrix.dot`) rather than row-b
   * Shortage: If Demand > Supply, the price remains at the highest available bid, and the unserved energy is recorded as `Supply_Shortage_MWh`.
 
 ### Unit Conversion
-* The Gas Price Input is in `pence/Therm`. To convert it into `pound/MWh`, we divide by 100 and multiply by 34.121 as given.
+* The Gas Price Input is in `pence/Therm`. To convert it into `pounds/MWh`, we divide by 100 and multiply by 34.121 as given.
 ---
 
 ## How to Run
