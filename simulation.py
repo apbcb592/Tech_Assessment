@@ -199,7 +199,7 @@ class AuctionProcessSimulator:
 #  Execution
 if __name__ == "__main__":
 
-    simulator = AuctionProcessSimulator("/content/data2.xlsx")
+    simulator = AuctionProcessSimulator("data2.xlsx")
     
     df_results = simulator.simulation()
     
